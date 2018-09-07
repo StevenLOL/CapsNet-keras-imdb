@@ -1,4 +1,11 @@
+# please checkout https://github.com/charlieanna/project
+
+
+
+
+
 ## NOTE
+
 This implementation is fork of https://github.com/XifengGuo/CapsNet-Keras , applied to IMDB texts reviews dataset.
 
 
